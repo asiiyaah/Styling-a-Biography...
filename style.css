@@ -31,3 +31,8 @@ body {
   a:hover {
     text-decoration: none;
   }
+  .box{
+background-color: #eeeeee;
+border: 5px solid purple;
+padding: 5px;  
+}
